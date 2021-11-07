@@ -1,0 +1,56 @@
+.greenbox {
+background-color: white;
+width: 200px;
+height: 220px;
+border-color: #044723;
+margin-left: 400px;
+margin-top: 115px;
+border-width: 2px;
+border-style: solid;
+}
+.greenbox h3,h6{ 
+	line-height: 0.4em;
+	margin-left: 20px;
+}
+
+.greenbox h4 {
+	font-size: 9px;
+	font-weight: normal;
+	color: #919191;
+	margin-left: 20px;
+}
+
+.greenbox h6 {
+	color:#044723;
+	font-size: 10px;
+	margin-left: 20px;
+	
+}
+
+.greenbox h1 {
+	background-color:#044723;
+	position: middle;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 19px;
+	color: white;
+	font-weight: normal;
+	border-radius: 6px;
+	width: 160px;
+	height: 30px;
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.greenbox h5 {
+	background-color:#C5D9C0;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	border-radius: 6px;
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+
